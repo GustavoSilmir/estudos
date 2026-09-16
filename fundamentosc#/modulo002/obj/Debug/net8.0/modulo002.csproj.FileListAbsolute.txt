@@ -1,0 +1,14 @@
+C:\projetos\curso\Revisao-de-algoritmos\python + c#\fundamentosc#\modulo002\bin\Debug\net8.0\modulo002.exe
+C:\projetos\curso\Revisao-de-algoritmos\python + c#\fundamentosc#\modulo002\bin\Debug\net8.0\modulo002.deps.json
+C:\projetos\curso\Revisao-de-algoritmos\python + c#\fundamentosc#\modulo002\bin\Debug\net8.0\modulo002.runtimeconfig.json
+C:\projetos\curso\Revisao-de-algoritmos\python + c#\fundamentosc#\modulo002\bin\Debug\net8.0\modulo002.dll
+C:\projetos\curso\Revisao-de-algoritmos\python + c#\fundamentosc#\modulo002\bin\Debug\net8.0\modulo002.pdb
+C:\projetos\curso\Revisao-de-algoritmos\python + c#\fundamentosc#\modulo002\obj\Debug\net8.0\modulo002.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\curso\Revisao-de-algoritmos\python + c#\fundamentosc#\modulo002\obj\Debug\net8.0\modulo002.AssemblyInfoInputs.cache
+C:\projetos\curso\Revisao-de-algoritmos\python + c#\fundamentosc#\modulo002\obj\Debug\net8.0\modulo002.AssemblyInfo.cs
+C:\projetos\curso\Revisao-de-algoritmos\python + c#\fundamentosc#\modulo002\obj\Debug\net8.0\modulo002.csproj.CoreCompileInputs.cache
+C:\projetos\curso\Revisao-de-algoritmos\python + c#\fundamentosc#\modulo002\obj\Debug\net8.0\modulo002.dll
+C:\projetos\curso\Revisao-de-algoritmos\python + c#\fundamentosc#\modulo002\obj\Debug\net8.0\refint\modulo002.dll
+C:\projetos\curso\Revisao-de-algoritmos\python + c#\fundamentosc#\modulo002\obj\Debug\net8.0\modulo002.pdb
+C:\projetos\curso\Revisao-de-algoritmos\python + c#\fundamentosc#\modulo002\obj\Debug\net8.0\modulo002.genruntimeconfig.cache
+C:\projetos\curso\Revisao-de-algoritmos\python + c#\fundamentosc#\modulo002\obj\Debug\net8.0\ref\modulo002.dll
