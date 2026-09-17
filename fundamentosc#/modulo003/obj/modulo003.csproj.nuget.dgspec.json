@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\projetos\\curso\\Revisao-de-algoritmos\\python + c#\\fundamentosc#\\modulo003\\modulo003.csproj": {}
+    "C:\\projetos\\curso\\Revisao-de-algoritmos\\python + c#\\estudos\\fundamentosc#\\modulo003\\modulo003.csproj": {}
   },
   "projects": {
-    "C:\\projetos\\curso\\Revisao-de-algoritmos\\python + c#\\fundamentosc#\\modulo003\\modulo003.csproj": {
+    "C:\\projetos\\curso\\Revisao-de-algoritmos\\python + c#\\estudos\\fundamentosc#\\modulo003\\modulo003.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\projetos\\curso\\Revisao-de-algoritmos\\python + c#\\fundamentosc#\\modulo003\\modulo003.csproj",
+        "projectUniqueName": "C:\\projetos\\curso\\Revisao-de-algoritmos\\python + c#\\estudos\\fundamentosc#\\modulo003\\modulo003.csproj",
         "projectName": "modulo003",
-        "projectPath": "C:\\projetos\\curso\\Revisao-de-algoritmos\\python + c#\\fundamentosc#\\modulo003\\modulo003.csproj",
+        "projectPath": "C:\\projetos\\curso\\Revisao-de-algoritmos\\python + c#\\estudos\\fundamentosc#\\modulo003\\modulo003.csproj",
         "packagesPath": "C:\\Users\\gusta\\.nuget\\packages\\",
-        "outputPath": "C:\\projetos\\curso\\Revisao-de-algoritmos\\python + c#\\fundamentosc#\\modulo003\\obj\\",
+        "outputPath": "C:\\projetos\\curso\\Revisao-de-algoritmos\\python + c#\\estudos\\fundamentosc#\\modulo003\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gusta\\AppData\\Roaming\\NuGet\\NuGet.Config"

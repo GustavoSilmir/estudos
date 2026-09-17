@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projetos\\curso\\Revisao-de-algoritmos\\python + c#\\fundamentosc#\\modulo002\\modulo002.csproj",
+      "projectUniqueName": "C:\\projetos\\curso\\Revisao-de-algoritmos\\python + c#\\estudos\\fundamentosc#\\modulo002\\modulo002.csproj",
       "projectName": "modulo002",
-      "projectPath": "C:\\projetos\\curso\\Revisao-de-algoritmos\\python + c#\\fundamentosc#\\modulo002\\modulo002.csproj",
+      "projectPath": "C:\\projetos\\curso\\Revisao-de-algoritmos\\python + c#\\estudos\\fundamentosc#\\modulo002\\modulo002.csproj",
       "packagesPath": "C:\\Users\\gusta\\.nuget\\packages\\",
-      "outputPath": "C:\\projetos\\curso\\Revisao-de-algoritmos\\python + c#\\fundamentosc#\\modulo002\\obj\\",
+      "outputPath": "C:\\projetos\\curso\\Revisao-de-algoritmos\\python + c#\\estudos\\fundamentosc#\\modulo002\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gusta\\AppData\\Roaming\\NuGet\\NuGet.Config"
